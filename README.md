@@ -42,7 +42,7 @@ Containment actions
 
 ## Mitigation steps
 
-Long-term preventive controls
+a. Long-term preventive controls
 
 This ensures a complete end-to-end learning experience across the SOC workflow.
 
